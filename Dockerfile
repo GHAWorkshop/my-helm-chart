@@ -8,3 +8,4 @@ COPY src ./src
 ENV PYTHONPATH=src
 
 CMD [ "python3", "src/ghademo/main.py"]
+
